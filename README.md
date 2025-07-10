@@ -1,5 +1,7 @@
 # Wine Scanner App
 
+![Wine Scanner App](assets/images/mockuuups-free-iphone-15-pro-hand-mockup.png)
+
 A Flutter application that allows users to scan wine bottles and get detailed information about them, including an AI-powered Q&A feature.
 
 ## Features
